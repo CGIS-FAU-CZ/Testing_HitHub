@@ -6,3 +6,6 @@ Test by Zhang at home
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
+**using Ctrl+B to bold**
+_using ctrl+I to italic_
+_try again_
